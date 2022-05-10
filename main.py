@@ -31,6 +31,7 @@ def Multiplicar():
 opcion = 0
 contador = 0
 while(opcion != 5):
+    
     contador = contador+1
     print("Contador: ",contador)
 
